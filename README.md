@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 <!--
 **MatthewSteen/MatthewSteen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Public
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewSteen&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewSteen&hide_title=true&show_icons=true)
 
 # Public + Private
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewSteen&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewSteen&hide_title=true&show_icons=true&count_private=true)
