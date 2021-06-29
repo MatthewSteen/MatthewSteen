@@ -15,8 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewSteen&theme=dark&layout=compact&hide_title=true)
+
+# Public and Private | Public
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatthewSteen&theme=dark&hide_title=true&show_icons=true&count_private=true&hide_rank=true" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatthewSteen&theme=dark&hide_title=true&show_icons=true&count_private=false&hide_rank=false" />
+</a>
+
+<!--
 # Public
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewSteen&hide_title=true&show_icons=true)
 
 # Public + Private
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewSteen&hide_title=true&show_icons=true&count_private=true)
+
