@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## Education
 
-- MS, Architectural Engineering, University of Colorado Boulder
+- MS, Architectural Engineering, University of Colorado Boulder (@CuBoulder)
 - BS, Environmental Biology, SUNY College of Environmental Science and Forestry
 
 ## Experience
