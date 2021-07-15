@@ -30,11 +30,17 @@ Here are some ideas to get you started:
 # Summary
 
 <details>
-<summary>Education TODO</summary>
+<summary>Education</summary>
+  MS, Architectural Engineering, University of Colorado Boulder
+  
+  BS, Environmental Biology, SUNY College of Environmental Science and Forestry
 </details>
 
 <details>
-<summary>Experience TODO</summary>
+<summary>Experience</summary>
+  @NREL
+  
+  @AmbientEnergy
 </details>
 
 
