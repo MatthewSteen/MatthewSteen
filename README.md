@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Languages
+# Summary
+
+## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewSteen&theme=dark&layout=compact&hide_title=true)
 
-# Public and Private | Public
+## Public and Private | Public
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatthewSteen&theme=dark&hide_title=true&show_icons=true&count_private=true&hide_rank=true" />
@@ -27,22 +29,17 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatthewSteen&theme=dark&hide_title=true&show_icons=true&count_private=false&hide_rank=false" />
 </a>
 
-# Summary
+## Education
 
-<details>
-<summary>Education</summary>
-  MS, Architectural Engineering, University of Colorado Boulder
-  
-  BS, Environmental Biology, SUNY College of Environmental Science and Forestry
-</details>
+- MS, Architectural Engineering, University of Colorado Boulder
+- BS, Environmental Biology, SUNY College of Environmental Science and Forestry
 
-<details>
-<summary>Experience</summary>
-  @NREL
-  
-  @AmbientEnergy
-</details>
+## Experience
 
+- @NREL
+- @AmbientEnergy
+- @USDAForestService
+- @DOI-BLM
 
 <!--
 # Public
@@ -51,3 +48,6 @@ Here are some ideas to get you started:
 # Public + Private
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewSteen&hide_title=true&show_icons=true&count_private=true)
 
+<details>
+<summary>Education</summary>
+</details>
