@@ -41,6 +41,10 @@ Here are some ideas to get you started:
 - @USDAForestService
 - @DOI-BLM
 
+## Publications
+
+- [Open Researcher and Contributor ID](https://orcid.org/0000-0003-0027-4127)
+
 <!--
 # Public
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewSteen&hide_title=true&show_icons=true)
