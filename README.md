@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewSteen&theme=dark&layout=compact&hide_title=true)
 
-## Public and Private | Public
+## Total (Public and Private) | Public
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatthewSteen&theme=dark&hide_title=true&show_icons=true&count_private=true&hide_rank=true" />
