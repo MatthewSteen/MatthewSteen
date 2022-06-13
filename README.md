@@ -29,22 +29,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatthewSteen&theme=dark&hide_title=true&show_icons=true&count_private=false&hide_rank=false" />
 </a>
 
-## Education
-
-- MS, Architectural Engineering, University of Colorado Boulder (@CuBoulder)
-- BS, Environmental Biology, SUNY College of Environmental Science and Forestry
-
-## Experience
-
-- @NREL
-- @AmbientEnergy
-- @USDAForestService
-- @DOI-BLM
-
-## Publications
-
-- [Open Researcher and Contributor ID](https://orcid.org/0000-0003-0027-4127)
-
 <!--
 # Public
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewSteen&hide_title=true&show_icons=true)
